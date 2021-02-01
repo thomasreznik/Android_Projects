@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee_App</string>
+    <string name="Choose_Toppings">Choose Toppings: </string>
+    <string name="Cream">Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Quantity_Amount">0</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Order">Order</string>
+    <string name="Order_Summary">Order Summary</string>
+    <string name="Order_Summary_Output"></string>
+
+
+</resources>
