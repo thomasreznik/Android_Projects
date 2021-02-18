@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI_Calculator_App</string>
+    <string name ="metric">Metric (Kilogram, Meters/Centimeters)</string>
+    <string name ="standard">Standard (Pounds,Feet/Inches)</string>
+    <string name ="your_height">Your Height: </string>
+    <string name ="Inches">Inches</string>
+    <string name ="height_quantity">0</string>
+    <string name ="height_minus">-</string>
+    <string name ="height_plus">+</string>
+    <string name ="your_weight">Your Weight: </string>
+    <string name ="pounds">Pounds</string>
+    <string name ="weight_quantity">0</string>
+    <string name ="weight_minus">-</string>
+    <string name ="weight_plus">+</string>
+    <string name ="calculate_bmi">Calculate BMI</string>
+
+    <string name="Output"></string>
+
+</resources>
