@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMaps_Intent</string>
+    <string name="redlands">My favorite city is San Francisco</string>
+    <string name="button_txt">Click here to see where it is</string>
+</resources>
