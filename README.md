@@ -20,4 +20,6 @@ Projects_3:
 - Fibonanci Flower: User is able to select a petal of choice and construct a fibonaci flower
 - Music_Player_App: User is able to play a song and pause and resume whenever they want
 
-Projects_4
+Projects_4:
+- GoogleMaps_Intent: User is able to click a button which will take them to the google maps app and to a specified location, being SF
+- Levic_Curve: User is able to select a certain level and a Levy C curve will get drawn depending on the level chosen
