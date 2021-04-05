@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">threading_expirement</string>
+    <string name="button1">logcat</string>
+    <string name="button2">toast</string>
+</resources>

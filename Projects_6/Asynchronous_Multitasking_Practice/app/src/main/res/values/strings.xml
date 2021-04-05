@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Asynchronous_Multitasking_Practice</string>
+    <string name="button_text">Turn On/Off</string>
+</resources>

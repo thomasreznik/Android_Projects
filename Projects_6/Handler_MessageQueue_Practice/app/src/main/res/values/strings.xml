@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Handler_MessageQueue_Practice</string>
+    <string name="zero">0</string>
+    <string name="start">Start Counter(THREAD)</string>
+    <string name="stop">Stop Counter(THREAD)</string>
+</resources>
